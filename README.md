@@ -24,7 +24,6 @@ files
 
 ## • Semistructured data is well suited eg (“Effective Date) tag in our
 
-## sow.txt
 
 ## • or obvious NER Tags (person, location etc)
 
@@ -94,9 +93,3 @@ User prompt:
 {input}
 
 {agent_scratchpad}
-
-
-
-[http://10.113.9.197:8086/lab/overview?component=query](http://10.113.9.197:8086/lab/overview?component=query)
-
-
